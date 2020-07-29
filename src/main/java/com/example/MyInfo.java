@@ -1,4 +1,4 @@
-package com.exemple;
+package com.example;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.actuate.info.Info.Builder;

@@ -1,4 +1,4 @@
-package com.exemple;
+package com.example;
 
 public class MyInfoObject {
 
